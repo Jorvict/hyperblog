@@ -2,4 +2,4 @@ Este es la primera edicion
 
 Esta es la segunda edicion del segundo archivo
 
-ahora hay bug xd
+BUG SOLUCIONADO
