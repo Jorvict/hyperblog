@@ -1,0 +1,83 @@
+commit 40ed307619924b1bdce97d6361e2535016c4f3d7
+Author: Jorvict Piña <i201802155@cibertec.edu.pe>
+Date:   Tue Jul 21 20:24:44 2020 -0500
+
+    Se agrega modificaciones y archivo log
+
+commit 1c73d01fe37213aa170b0bfc2cb95eb8a5892683
+Author: Jorvict Piña <i201802155@cibertec.edu.pe>
+Date:   Tue Jul 21 19:30:27 2020 -0500
+
+    Ya no hay bug
+
+commit 3b23f19724b9b8338a54f250c2da712d1b8fca6a
+Author: Jorvict Piña <i201802155@cibertec.edu.pe>
+Date:   Tue Jul 21 19:01:49 2020 -0500
+
+    Se ingresa el archivo que debo recuperar
+
+commit f614c66f518fd420a6658882a3a00e3be972205f
+Author: Jorvict Piña <i201802155@cibertec.edu.pe>
+Date:   Tue Jul 21 16:07:30 2020 -0500
+
+    Se inserto bug por error
+
+commit 4a0fb41ac9ea5e611533fe306101d41f8850bea5
+Author: Jorvict Piña <i201802155@cibertec.edu.pe>
+Date:   Tue Jul 21 16:03:34 2020 -0500
+
+    Se añade historia 1 sin bugs, historia 2 aun presenta bugs, se añadira despues
+
+commit 8f8fe836627250111c712571221bc8e46e46acb5
+Author: Jorvict Piña <i201802155@cibertec.edu.pe>
+Date:   Tue Jul 21 15:43:36 2020 -0500
+
+    Esta es la segunda edicion del archivo historia 2
+
+commit a805e62f1d61d9f6f70a933f6532ce6fa958b3f6
+Author: Jorvict Piña <i201802155@cibertec.edu.pe>
+Date:   Tue Jul 21 15:41:08 2020 -0500
+
+    Se añade archivo historia 2
+
+commit b1baf0f27eaf0f03ff322b085f9973477714b2b4
+Author: Jorvict Piña <i201802155@cibertec.edu.pe>
+Date:   Tue Jul 21 15:33:41 2020 -0500
+
+    Reemplazo de una version por otra de la historia
+
+commit 50da342379d2ed9311b9da16a9e5b9df5d96c265
+Author: Jorvict Piña <i201802155@cibertec.edu.pe>
+Date:   Tue Jul 21 15:29:42 2020 -0500
+
+    Cambio de maestría
+
+commit 88405a541fb35aad04c9c5a404352a367c3c09e1
+Author: Jorvict Piña <i201802155@cibertec.edu.pe>
+Date:   Tue Jul 21 15:28:49 2020 -0500
+
+    Cambio de vida
+
+commit 34dc96bef33c28f41167d841afda3644d7d37ea4
+Author: Jorvict Piña <i201802155@cibertec.edu.pe>
+Date:   Tue Jul 21 15:27:08 2020 -0500
+
+    Arranco mi proyecto ral con html y css
+
+commit 79b7fc33fb04aa672aaf63c33081590df6b3b9e2
+Author: Jorvict Piña <i201802155@cibertec.edu.pe>
+Date:   Tue Jul 21 14:46:03 2020 -0500
+
+    Agregamos un cambio a su complexion
+
+commit 22c7232944c1ea5f4901f081ca8b9f4488709ca2
+Author: Jorvict Piña <i201802155@cibertec.edu.pe>
+Date:   Tue Jul 21 03:00:59 2020 -0500
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+commit 1a158ef16917b5558e5307f1c82db9b68fb8eb2b
+Author: Jorvict Piña <i201802155@cibertec.edu.pe>
+Date:   Tue Jul 21 02:58:32 2020 -0500
+
+    Este es el primer commit de este archivo
