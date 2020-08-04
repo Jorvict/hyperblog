@@ -1,4 +1,4 @@
-#Hyperblog
+# Hyperblog 💻
 ¡Hola!, el presente repositorio es una práctica realizada por mi persona Jorvict Piña, para emplear los conocimiento que voy obteniendo en el curso de Platzi. 😀 
 
 Algunos conocimientos que he obtenido durante el curso son:
